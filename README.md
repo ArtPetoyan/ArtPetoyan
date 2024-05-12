@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?theme=merko&size=36&lines=I'am+Artur)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?theme=merko&size=36&lines=I am+Artur)](https://git.io/typing-svg)
 
 ### My Hobby
 
