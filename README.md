@@ -2,7 +2,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?theme=merko&size=36&lines=I+am+Artur)](https://git.io/typing-svg)
 
-Welcome to my GitHub. This is the central place where I share my work, showcase my skills, and connect with the community. Thanks for stopping by!
+Welcome to my GitHub Page.
+This is the central place where I share my work, showcase my skills, and connect with the community. Thanks for stopping by!
 
 ## 🧑‍💻 About Me
 
